@@ -3,8 +3,9 @@
 
 ## **Table Of Contents:**
 
-*-Reading Notes 1*
--Reading Notes 2
+
+*[Class one notes](class-01.md)*
+*[Class two notes](class-02.md)*
 -Reading Notes 3
 -Reading Notes 4
 -Reading Notes 5
