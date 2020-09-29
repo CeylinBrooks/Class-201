@@ -15,6 +15,10 @@ White space collasping
 
 ## Chapter 10: "Introducing CSS" 
 
+- Block and Inline elements
+- CSS allows you to create rules that control the way that each individual box
+- CSS works by associating rules with HTML elements.
+
 
 
 # From the Duckett JS Book
@@ -96,8 +100,8 @@ word (you cannot use a dash).
 - != is not equal to
 - === strict equal to
 - !== strict not equal to
-- > great than
-- < less than
+- >  greater than
+- <  less than
 - >= greater than or equal to
 - <= less than or equal to
 
