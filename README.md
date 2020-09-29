@@ -1,7 +1,9 @@
 # Class-201
 
-##This is the area I have designated to keep my reading notes for my 201 Class!
-###This is webesite to host my reading notes
+## This is the area I have designated to keep my reading notes for my 201 Class!
+
+
+### This is webesite to host my reading notes
 
 Table Of Contents:
 
