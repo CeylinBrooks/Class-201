@@ -5,9 +5,9 @@
 
 Table Of Contents:
 
-Class one notes
+*[Class one notes](class-01.md)*
 
-Class two notes
+*[Class two notes](class-02.md)*
 
 -Reading Notes 3 
 
