@@ -47,3 +47,19 @@ width properties.
 - min-width, max-width
 - min-height, max-height
 - overflow
+
+#From the Duckett JS book:
+
+- You create an array and give it
+a name just like you would any
+other variable (using the var
+keyword followed by the name of
+the array).
+
+- Values in an array are accessed as if they are in
+a numbered list. It is important to know that the
+numbering of this list starts at zero (not one).
+
+- The first lines of code on the left
+create an array containing a list
+of three colors
