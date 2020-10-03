@@ -11,7 +11,7 @@ Table Of Contents:
 
 *[Class two notes](class-02.md)*
 
--Reading Notes 3 
+*[Class three notes](HTML-Lists-CSS-Boxes-JS-Control-Flow-Notes.md)*
 
 -Reading Notes 4
 
