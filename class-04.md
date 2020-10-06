@@ -30,7 +30,7 @@ relative URL
 - URL (or Uniform
 Resource Locator)
 
--The <h1> element is used with an id attribute at the top of the page so
+-The //<h1>// element is used with an id attribute at the top of the page so
 that a link can be added to take readers from the bottom of the page to
 the top
 
