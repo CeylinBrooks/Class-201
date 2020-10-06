@@ -18,7 +18,7 @@
 appears between the opening
 <a> tag and the closing </a>
 tag and will be taken to the page
-specified in the href attribute.**
+specified in the href attribute. **
 
 - When you are linking to other
 pages within the same site,
@@ -38,5 +38,9 @@ the top
 
 ### *Controlling t XX he position of elements, Creating site layouts and Designing for different sized screens*
 
+- CSS treats each HTML element as if it is in its
+own box. This box will either be a block-level
+box or an inline box.
 
+- 
 
