@@ -30,7 +30,7 @@ relative URL
 - URL (or Uniform
 Resource Locator)
 
--The h1 element is used with an id attribute at the top of the page so
+- The h1 element is used with an id attribute at the top of the page so
 that a link can be added to take readers from the bottom of the page to
 the top
 
@@ -51,7 +51,25 @@ the layout of a page: normal flow, relative positioning, and absolute
 positioning. You specify the positioning scheme using the position
 property in CSS. You can also float elements using the float property.
 
-- 
+- In normal flow, each block-level
+element sits on top of the next
+one.
+
+- Relative positioning moves an
+element in relation to where it
+would have been in normal flow.
+
+- Fixed positioning is a type
+of absolute positioning that
+requires the position property
+to have a value of fixed.
+
+# From the Duckett JS book
+
+## Functions, Methods, and Objects
+
+
+
 
 
 
