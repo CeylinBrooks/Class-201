@@ -79,7 +79,25 @@ i. ii. iii.
 - upper-roman
 I II III
 
+
+
 ## Chapter 6: “Events” 
+
+-When you browse the web, your browser registers different
+types of events. It's the browser's way of saying, "Hey, this
+just happened." Your script can then respond to these events.
+
+- Any of these events can be used to trigger a function
+in your JavaScript code.
+
+- EVENTS FIRE OR ARE RAISED
+When an event has occurred, it is often described as having fired or
+been raised. In the diagram on the right, if the user is tapping on a link, a
+cl ick event would fire in the browser.
+EVENTS TRIGGER SCRIPTS
+Events are said to t rigger a function or script. When the click event
+fires on the element in this diagram, it could trigger a script that enlarges
+the selected item.
 
 
 
