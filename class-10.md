@@ -27,7 +27,7 @@ with understanding a concept called hoisting. You
 may have seen that you can:
 • Call functions before they have been declared
 (if they were created using function declarations
-- not function expressions, see p96)
+
 • Assign a value to a va ria ble that has not yet been
 declared
 This is because any variables and functions within
